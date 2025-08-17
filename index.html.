@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ALMA Investment</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0d1117;
+      color: #f0f6fc;
+      text-align: center;
+    }
+    header {
+      background: #161b22;
+      padding: 1.5rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+    }
+    header h1 {
+      margin: 0;
+      color: #58a6ff;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      color: #f0f6fc;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #58a6ff;
+    }
+    .hero {
+      padding: 3rem 1rem;
+    }
+    .hero h2 {
+      color: #58a6ff;
+    }
+    .cta {
+      margin-top: 20px;
+    }
+    .cta a {
+      display: inline-block;
+      background: #238636;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .cta a:hover {
+      background: #2ea043;
+    }
+    footer {
+      margin-top: 40px;
+      padding: 1rem;
+      background: #161b22;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ALMA Investment</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Services</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Smart Investments for a Smarter Future</h2>
+    <p>Welcome to ALMA Investment – Forex & Crypto Trading Academy.</p>
+    <div class="cta">
+      <a href="#">Get Started</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ALMA Investment. All rights reserved.</p>
+  </footer>
+</body>
+</html>
